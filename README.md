@@ -1,3 +1,3 @@
 # -strep
 This is my first repository
-Auther=Kushal Timilsina
+Auther-Kushal Timilsina
